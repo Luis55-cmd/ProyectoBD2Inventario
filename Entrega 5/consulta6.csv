@@ -1,0 +1,6 @@
+Id_almacen,nombre_almacen,capacidad_total,ubicacion,eficiencia_promedio,total_operaciones,volumen_total_operado,personal_promedio,volumen_por_recurso,tiempo_promedio,operaciones_exitosas,operaciones_fallidas,estado_personal
+3,Sucursal La Coruña,94890.48,Barcelona,100.45,17055,216953.42,4.48,2.84,61.16,17055,0,EXCESO DE PERSONAL - Reducir
+1,Sucursal Soria,119721.72,Barcelona,100.04,16995,217312.09,4.51,2.84,60.58,16995,0,EXCESO DE PERSONAL - Reducir
+5,Sucursal Cuenca,167125.23,Barcelona,99.97,16763,212393.52,4.47,2.83,60.21,16763,0,EXCESO DE PERSONAL - Reducir
+2,Almacén Regional Lugo,67588.21,Barcelona,99.97,17060,216319.44,4.47,2.84,60.15,17060,0,EXCESO DE PERSONAL - Reducir
+4,Almacén Regional Ciudad,199120.05,Barcelona,99.78,16941,215669.73,4.51,2.82,60.03,16941,0,EXCESO DE PERSONAL - Reducir

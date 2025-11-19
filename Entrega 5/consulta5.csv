@@ -1,0 +1,30 @@
+id_producto,nombre_producto,estado_producto,lotes_activos,dias_vencimiento_promedio,nivel_riesgo,requiere_refrigeracion,movimientos_30dias,accion_recomendada
+79,Aspirina,activo,1,21,ALTO RIESGO - Vencimiento Inminente,1,0,SEGUIMIENTO - Rutina
+223,Enjuague bucal,activo,1,23,ALTO RIESGO - Vencimiento Inminente,1,0,SEGUIMIENTO - Rutina
+87,Preservativos,activo,1,25,ALTO RIESGO - Vencimiento Inminente,1,0,SEGUIMIENTO - Rutina
+224,Termómetro digital,activo,1,25,ALTO RIESGO - Vencimiento Inminente,1,0,SEGUIMIENTO - Rutina
+158,Insulina,activo,1,36,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+185,Pañales,activo,1,37,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+157,Toallas húmedas,activo,1,39,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+188,Desodorante,activo,1,53,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+100,Omeprazol,activo,1,63,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+34,Pañales,activo,1,63,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+105,Shampoo anticaspa,descontinuado,1,65,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+23,Toallas húmedas,activo,1,75,RIESGO MEDIO - Acción Requerida,1,0,SEGUIMIENTO - Rutina
+17,Omeprazol,activo,2,86,RIESGO MEDIO - Acción Requerida,2,0,SEGUIMIENTO - Rutina
+233,Alcohol en gel,activo,1,93,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+232,Shampoo anticaspa,activo,1,95,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+63,Crema para manos,descontinuado,1,96,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+184,Tiras reactivas,activo,1,96,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+33,Pañales,activo,1,108,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+216,Enjuague bucal,activo,1,126,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+193,Insulina,activo,1,130,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+119,Preservativos,activo,1,133,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+205,Shampoo anticaspa,activo,1,133,BAJO RIESGO - Monitorear,1,0,SEGUIMIENTO - Rutina
+11,Shampoo anticaspa,activo,2,151.5,BAJO RIESGO - Monitorear,2,0,SEGUIMIENTO - Rutina
+1,Termómetro digital,activo,1,197,SIN RIESGO - Stock Saludable,1,0,SEGUIMIENTO - Rutina
+4,Enjuague bucal,activo,1,204,SIN RIESGO - Stock Saludable,1,0,SEGUIMIENTO - Rutina
+167,Enjuague bucal,activo,1,205,SIN RIESGO - Stock Saludable,1,0,SEGUIMIENTO - Rutina
+118,Crema para manos,activo,1,230,SIN RIESGO - Stock Saludable,1,0,SEGUIMIENTO - Rutina
+132,Amoxicilina,activo,1,253,SIN RIESGO - Stock Saludable,1,0,SEGUIMIENTO - Rutina
+177,Termómetro digital,activo,1,274,SIN RIESGO - Stock Saludable,1,0,SEGUIMIENTO - Rutina

@@ -1,0 +1,9 @@
+estado_actual,tipo_evento,total_eventos,ciclo_vida_dias,lotes_unicos,eventos_por_lote,control_temperatura,congelados,operadores_involucrados
+Aprobado,División,15003,364.79,17,882.53,15003,0,8
+Cuarentena,Consumo,83697,364.75,72,1162.46,83697,0,8
+Cuarentena,División,55521,364.75,72,771.13,55521,0,8
+Cuarentena,Transformación,69029,364.75,116,595.08,69029,0,8
+Aprobado,Transformación,14678,364.73,24,611.58,14678,0,8
+Aprobado,Consumo,22577,364.79,17,1328.06,22577,0,8
+Aprobado,Creación,34205,364.74,24,1425.21,34205,0,8
+Cuarentena,Creación,161016,364.75,116,1388.07,161016,0,8
