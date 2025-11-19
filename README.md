@@ -4,5 +4,5 @@ Entrega 2 enfocada Citus
 
 Entrega 3 enfocada en MongoDB
 
-Entrega 4 
+Entrega 4 enfocada en Apache Spark/Databricks
 
