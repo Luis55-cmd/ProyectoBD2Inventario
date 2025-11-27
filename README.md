@@ -9,3 +9,4 @@ Entrega 4 enfocada en Pentaho/Metabase
 Entrega 5 enfocada en Apache Spark/Databricks
 
 
+ Proyecto de Base de Datos 2 2025 
